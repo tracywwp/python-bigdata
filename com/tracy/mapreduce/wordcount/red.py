@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Time    : 2017/12/21 上午11:13
+# @Time    : 2017/12/21 上午11:15
 # @Author  : tracy
 # @Site    : 
-# @File    : __init__.py.py
+# @File    : red.py.py
 # @Software: IntelliJ IDEA
